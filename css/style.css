@@ -183,6 +183,12 @@ p {
 	color: #666;
 }
 .right_headers .animated{
+	-webkit-animation-delay: 1s;
+	-webkit-animation-duration: 1s;
+    -webkit-animation-timing-function: ease;
+    -moz-animation-delay: 1s;
+	-moz-animation-duration: 1s;
+    -moz-animation-timing-function: ease;
 	animation-delay: 1s;
 	animation-duration: 1s;
     animation-timing-function: ease;
